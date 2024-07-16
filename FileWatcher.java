@@ -1,8 +1,3 @@
-
-Sreenivasulu Athmakuru <sreenu3112@gmail.com>
-10:44 PM (11 minutes ago)
-to me
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
